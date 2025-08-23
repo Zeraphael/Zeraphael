@@ -21,7 +21,7 @@ With skills in **Excel, SQL, Python, and Power BI**, I can handle everything fro
 🔹 [Nashville Housing Data Cleaning](https://github.com/Zeraphael/nashville-housing-cleaning)  
 *SQL project: transformed raw housing dataset into usable, clean data.*  
 
-🔹 [Student Mental Health Analysis](https://github.com/Zeraphael/student-mental-health)  
+🔹 [Student Mental Health Analysis]([https://github.com/Zeraphael/student-mental-health](https://github.com/Zeraphael/Students_Mental_Health_Analysis))  
 *Explored correlations between student performance and mental health factors.*  
 
 ---
