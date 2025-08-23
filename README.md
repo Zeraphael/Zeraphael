@@ -15,7 +15,7 @@ With skills in **Excel, SQL, Python, and Power BI**, I can handle everything fro
 ---
 
 ## 📊 Featured Projects
-🔹 [Hospital Data Cleaning & Dashboard](https://github.com/Zeraphael/hospital-data-dashboard)  
+🔹 [Hospital Data Cleaning & Dashboard](https://github.com/Zeraphael/Top-100-Hospitals-in-africa)  
 *A project where I cleaned messy hospital records and built a simple dashboard for analysis.*  
 
 🔹 [Nashville Housing Data Cleaning](https://github.com/Zeraphael/nashville-housing-cleaning)  
