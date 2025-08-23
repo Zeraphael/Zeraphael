@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hi, I'm Biniam 👋
 
-<!--
-**Zeraphael/Zeraphael** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Data Entry & Data Analysis Specialist**  
+I help businesses and organizations transform raw data into clean, organized, and meaningful insights.  
+With skills in **Excel, SQL, Python, and Power BI**, I can handle everything from simple data entry to advanced analytics.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💡 What I Do
+- ✅ Fast & Accurate **Data Entry** (Excel, Google Sheets, PDF to Excel)
+- ✅ **Data Cleaning & Formatting** (removing duplicates, fixing errors, organizing large datasets)
+- ✅ **Data Analysis & Dashboards** (Python, SQL, Power BI, Excel)
+- ✅ Specialized in **Healthcare & Hospital Data**
+
+---
+
+## 📊 Featured Projects
+🔹 [Hospital Data Cleaning & Dashboard](https://github.com/Zeraphael/hospital-data-dashboard)  
+*A project where I cleaned messy hospital records and built a simple dashboard for analysis.*  
+
+🔹 [Nashville Housing Data Cleaning](https://github.com/Zeraphael/nashville-housing-cleaning)  
+*SQL project: transformed raw housing dataset into usable, clean data.*  
+
+🔹 [Student Mental Health Analysis](https://github.com/Zeraphael/student-mental-health)  
+*Explored correlations between student performance and mental health factors.*  
+
+---
+
+## 🛠️ Tools & Skills
+- **Languages:** Python, SQL  
+- **Data Tools:** Excel, Google Sheets, Power BI, Tableau  
+- **Other:** Data Entry, Data Cleaning, Web Scraping  
+
+---
+
+## 📬 Contact Me
+📩 Email: your.email@example.com  
+💬 WhatsApp / Telegram: +2519xxxxxxx  
+🌐 Portfolio: [zeraphael.github.io](https://zeraphael.github.io)  
+
+---
+⭐️ *If you like my work, feel free to connect or collaborate!*
