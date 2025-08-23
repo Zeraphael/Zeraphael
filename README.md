@@ -34,8 +34,8 @@ With skills in **Excel, SQL, Python, and Power BI**, I can handle everything fro
 ---
 
 ## 📬 Contact Me
-📩 Email: your.email@example.com  
-💬 WhatsApp / Telegram: +2519xxxxxxx  
+📩 Email: your.yottor12@gmail.com  
+💬 WhatsApp / Telegram: +251921225739  
 🌐 Portfolio: [zeraphael.github.io](https://zeraphael.github.io)  
 
 ---
