@@ -19,7 +19,7 @@ With skills in **Excel, SQL, Python, and Power BI**, I can handle everything fro
 🔹 [Hospital Data Cleaning & Dashboard](https://github.com/Zeraphael/Top-100-Hospitals-in-africa)  
 *A project where I cleaned messy hospital records and built a simple dashboard for analysis.*  
 
-🔹 [Diabetes Risk Prediction](https://github.com/Zeraphael/nashville-housing-cleaning)  
+🔹 [Diabetes Risk Prediction](https://github.com/Zeraphael/Diabetes_Risk_Prediction)  
 *ML project: predicted whether the patient is diabetes or not using features.*  
 
 🔹 [Student Mental Health Analysis](https://github.com/Zeraphael/Students_Mental_Health_Analysis)  
